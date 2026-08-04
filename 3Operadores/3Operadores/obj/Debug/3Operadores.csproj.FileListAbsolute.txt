@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\3Operadores\3Operadores\bin\Debug\3Operadores.exe.config
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\3Operadores\3Operadores\bin\Debug\3Operadores.exe
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\3Operadores\3Operadores\bin\Debug\3Operadores.pdb
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\3Operadores\3Operadores\obj\Debug\3Operadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\3Operadores\3Operadores\obj\Debug\3Operadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\3Operadores\3Operadores\obj\Debug\3Operadores.exe
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\3Operadores\3Operadores\obj\Debug\3Operadores.pdb
