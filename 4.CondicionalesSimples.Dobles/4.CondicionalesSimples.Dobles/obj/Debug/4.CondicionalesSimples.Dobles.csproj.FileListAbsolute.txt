@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\4.CondicionalesSimples.Dobles\4.CondicionalesSimples.Dobles\bin\Debug\4.CondicionalesSimples.Dobles.exe.config
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\4.CondicionalesSimples.Dobles\4.CondicionalesSimples.Dobles\bin\Debug\4.CondicionalesSimples.Dobles.exe
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\4.CondicionalesSimples.Dobles\4.CondicionalesSimples.Dobles\bin\Debug\4.CondicionalesSimples.Dobles.pdb
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\4.CondicionalesSimples.Dobles\4.CondicionalesSimples.Dobles\obj\Debug\4.CondicionalesSimples.Dobles.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\4.CondicionalesSimples.Dobles\4.CondicionalesSimples.Dobles\obj\Debug\4.CondicionalesSimples.Dobles.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\4.CondicionalesSimples.Dobles\4.CondicionalesSimples.Dobles\obj\Debug\4.CondicionalesSimples.Dobles.exe
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\4.CondicionalesSimples.Dobles\4.CondicionalesSimples.Dobles\obj\Debug\4.CondicionalesSimples.Dobles.pdb
