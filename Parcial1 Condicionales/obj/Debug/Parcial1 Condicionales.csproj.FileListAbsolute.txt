@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\Parcial1 Condicionales\bin\Debug\Parcial1 Condicionales.exe.config
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\Parcial1 Condicionales\bin\Debug\Parcial1 Condicionales.exe
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\Parcial1 Condicionales\bin\Debug\Parcial1 Condicionales.pdb
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\Parcial1 Condicionales\obj\Debug\Parcial1 Condicionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\Parcial1 Condicionales\obj\Debug\Parcial1 Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\Parcial1 Condicionales\obj\Debug\Parcial1 Condicionales.exe
+C:\Users\B09S104est\Documents\DavidPérez\FundamentosProgramacionMJ10DavidP-rez\Parcial1 Condicionales\obj\Debug\Parcial1 Condicionales.pdb
