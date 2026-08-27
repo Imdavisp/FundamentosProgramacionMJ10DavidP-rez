@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\Paloma\FundamentosProgramacionMJ12PalomaPulido\8.CiclioWhile2\obj\Debug\8.CiclioWhile2.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\Paloma\FundamentosProgramacionMJ12PalomaPulido\8.CiclioWhile2\obj\Debug\8.CiclioWhile2.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\Paloma\FundamentosProgramacionMJ12PalomaPulido\8.CiclioWhile2\bin\Debug\8.CiclioWhile2.exe.config
+C:\Users\B09S104est\Desktop\Paloma\FundamentosProgramacionMJ12PalomaPulido\8.CiclioWhile2\bin\Debug\8.CiclioWhile2.exe
+C:\Users\B09S104est\Desktop\Paloma\FundamentosProgramacionMJ12PalomaPulido\8.CiclioWhile2\bin\Debug\8.CiclioWhile2.pdb
+C:\Users\B09S104est\Desktop\Paloma\FundamentosProgramacionMJ12PalomaPulido\8.CiclioWhile2\obj\Debug\8.CiclioWhile2.exe
+C:\Users\B09S104est\Desktop\Paloma\FundamentosProgramacionMJ12PalomaPulido\8.CiclioWhile2\obj\Debug\8.CiclioWhile2.pdb
