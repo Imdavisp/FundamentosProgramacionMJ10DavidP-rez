@@ -1,0 +1,8 @@
+C:\Users\David\source\repos\Parcial2_DavidPérez\Parcial2_DavidPérez\bin\Debug\Parcial2_DavidPérez.exe.config
+C:\Users\David\source\repos\Parcial2_DavidPérez\Parcial2_DavidPérez\bin\Debug\Parcial2_DavidPérez.exe
+C:\Users\David\source\repos\Parcial2_DavidPérez\Parcial2_DavidPérez\bin\Debug\Parcial2_DavidPérez.pdb
+C:\Users\David\source\repos\Parcial2_DavidPérez\Parcial2_DavidPérez\obj\Debug\Parcial2_DavidPérez.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\Parcial2_DavidPérez\Parcial2_DavidPérez\obj\Debug\Parcial2_DavidPérez.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Parcial2_DavidPérez\Parcial2_DavidPérez\obj\Debug\Parcial2_DavidPérez.exe
+C:\Users\David\source\repos\Parcial2_DavidPérez\Parcial2_DavidPérez\obj\Debug\Parcial2_DavidPérez.pdb
+C:\Users\David\source\repos\Parcial2_DavidPérez\Parcial2_DavidPérez\obj\Debug\Parcial2_DavidPérez.exe.config
